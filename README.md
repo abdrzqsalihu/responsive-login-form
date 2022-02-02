@@ -2,7 +2,6 @@
 
 A responsive login form, built with Bootstrap CSS.
 
-
 ## Getting Started
 
 You can clone or download this repository to your local machine using the link below:
