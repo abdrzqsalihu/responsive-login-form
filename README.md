@@ -1,6 +1,6 @@
 # Responsive login form
 
-A responsive login form, built with Bootstrap CSS.
+A responsive login form, built with Bootstrap CSS :)
 
 ## Getting Started
 
